@@ -15,7 +15,8 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 To run this project
 
-```copy the code in Remix Ide
+```
+   copy the code in Remix Ide
    Compile it
    Deploy the smart contract on any test network 
    Interact with smart contract
