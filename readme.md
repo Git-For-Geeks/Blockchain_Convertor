@@ -6,7 +6,7 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 
 - You can use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 - Celebrate Git-For-Geeks by getting involved in the open source community and completing some simple tasks in this project.
-- This repository is open to all members of the GitHub community. Anyone can contribute to this project.
+- This repository is open to all members who have registered for the Git-For-Geeks Event
 
 ## About This Project
  This is simple blockchain project which gets the rate of 1 eth in usd via chainlink protocol and gives the conversion in usd of the specified amount of eth.
